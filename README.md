@@ -4,7 +4,7 @@ Práctica académica de Business Analytics sobre análisis predictivo aplicado a
 
 **Autores:** Jonathan Ortiz Calderon y Carolina Suarez Castro
 
-**Repositorio:** [TALLER-PRACTICA-AN-LISIS-PREDICTIVO](https://github.com/jonathanortizcalderon-droid/TALLER-PRACTICA-AN-LISIS-PREDICTIVO)
+**Repositorio:** [TALLER-PRACTICA-ANALISIS-PREDICTIVO](https://github.com/jonathanortizcalderon-droid/TALLER-PRACTICA-AN-LISIS-PREDICTIVO)
 
 ## Descripción
 
